@@ -8,7 +8,7 @@
 - Usecase interface
 - InputData class（for usecase）
 - OutputData class（for usecase）
-- Jsons（for stub）
+- Jsons（for stub）  
 ※repository関連の生成は行わない
 
 ## Using this project
