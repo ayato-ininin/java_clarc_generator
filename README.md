@@ -5,9 +5,9 @@
 - Controller
 - Interactor:prod（domain/applicationService）
 - Interactor:dev（stubs）
-- Usecase
-- InputData interface（for usecase）
-- OutputData interface（for usecase）
+- Usecase interface
+- InputData class（for usecase）
+- OutputData class（for usecase）
 - Jsons（for stub）
 ※repository関連の生成は行わない
 
