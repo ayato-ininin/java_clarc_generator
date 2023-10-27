@@ -18,7 +18,7 @@ func main() {
 	app.SetCommonVariable(domainName, methodName)
 
 	// Generate controllerファイル
-	app.GenerateControllerFile(defaultPath)
+	// app.GenerateControllerFile(defaultPath)
 	// Generate domain serviceファイル
 	app.GenerateDomainServiceFile(defaultPath)
 	// Generate usecaseファイル
